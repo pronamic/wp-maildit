@@ -11,6 +11,11 @@ interface with some nice functions, widgets and more.
 
 == Description ==
 
+> This plugin is deprecated so Pronamic wil no longer support and maintain this plugin.
+>
+> If you want to help maintain the plugin, fork it on [GitHub](https://github.com/pronamic/wp-maildit) and open pull requests.
+
+
 With the Maildit WordPress plugin users can easily create digital newsletters within WordPress. 
 The newsletters can then easily be send via Campaign Monitor, Mail Chimp and / or MailToMail. 
 The advantage of Maildit is that you can manage your newsletters within your own WordPress 
