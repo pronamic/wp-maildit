@@ -1,11 +1,11 @@
 === Maildit ===
 Contributors: pronamic, remcotolsma 
-Tags: maildit, newsletter, campaign monitor, mailtomail, mail, news
+Tags: maildit, newsletter, campaign monitor, mailtomail, mail, news, deprecated
 Requires at least: 3.0
 Tested up to: 3.0
-Stable tag: 1.0
+Stable tag: 1.0.1
 
-This plugin contains some handy WordPress functions and extends the WordPress admin 
+Deprecated — This plugin contains some handy WordPress functions and extends the WordPress admin 
 interface with some nice functions, widgets and more.
 
 
@@ -30,6 +30,9 @@ WordPress installation and then activate the Plugin from Plugins page.
 
 
 == Changelog ==
+
+= 1.0.1 =
+*	Added deprecated notice.
 
 = 1.0 =
 *	Initial release
